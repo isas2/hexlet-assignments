@@ -1,0 +1,19 @@
+bull_1:
+  title: Bulletin 1
+  body: Продам сгоревший Xbox 360. Дорого!
+  published: true
+
+bull_2:
+  title: Bulletin 2
+  body: Нужна спокойная и непыльная работа
+  published: false
+
+bull_3:
+  title: Bulletin 3
+  body: Куплю рабочий Xbox 360. Дешево!
+  published: true
+
+bull_4:
+  title: Bulletin 4
+  body: Ищу работу с зорошей ЗП и чтобы работать не надо!
+  published: true
