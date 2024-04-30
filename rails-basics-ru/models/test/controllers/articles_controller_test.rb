@@ -2,12 +2,13 @@ require "test_helper"
 
 class ArticlesControllerTest < ActionDispatch::IntegrationTest
   test "should get index" do
-    get articles_index_url
+    get articles_path
     assert_response :success
   end
 
   test "should get show" do
-    get articles_show_url
+    article = Article.first
+    get article_path(article.id)
     assert_response :success
   end
 end
