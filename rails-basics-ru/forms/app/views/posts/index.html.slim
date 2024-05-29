@@ -1,0 +1,15 @@
+h1
+  | Posts
+= link_to 'New Post', new_post_path
+hr
+br
+- @posts.each do |post|
+  h2
+    = link_to post.title, post_path(post)
+  p
+    |> Summary:
+    = post.summary
+  p
+    |> Published:
+    = post.published
+  hr
