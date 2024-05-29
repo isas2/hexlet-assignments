@@ -25,7 +25,8 @@ gem 'cssbundling-rails'
 
 gem 'slim-rails'
 # BEGIN
-gem 'bootstrap'
+gem 'bootstrap', '~> 5.3.3'
+gem 'dartsass-sprockets'
 gem 'simple_form'
 # END
 gem 'bootsnap', '>= 1.4.4', require: false

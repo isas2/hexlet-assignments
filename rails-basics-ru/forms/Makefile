@@ -1,7 +1,6 @@
 setup:
-	bundle install
 	bin/setup
-	yarn install
+	yarn
 
 start:
 	bin/dev
