@@ -1,0 +1,24 @@
+h1
+  = @task.name
+p
+  = @task.description
+p
+  |> Status:
+  = @task.status
+p
+  |> Creator:
+  = @task.creator
+p
+  |> Performer:
+  = @task.performer
+p
+  |> Completed:
+  = @task.completed
+small
+  |> Created:
+  i
+    = @task.created_at.in_time_zone('Moscow').strftime('%H:%m %d.%m.%y')
+hr
+=> link_to 'Back', root_path
+=> link_to 'Edit', edit_task_path(@task)
+= link_to 'Destroy', task_path(@task), data: { turbo_method: :delete, turbo_confirm: 'Are you sure?' }
