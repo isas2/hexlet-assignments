@@ -1,0 +1,14 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+# BEGIN
+status_1:
+  name: New
+
+status_2:
+  name: In Progress
+
+status_3:
+  name: Done
+
+status_4:
+  name: Error
+# END
