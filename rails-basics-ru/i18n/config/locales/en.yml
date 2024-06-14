@@ -1,0 +1,16 @@
+en:
+  show: Show
+  edit: Edit
+  destroy: Delete
+  destroy_confirmation: Are you sure?
+  back: Back
+  home:
+    link: Home
+    title: Home page
+  title: Internationalization
+  hexlet_title: © Hexlet, %{year}
+
+  layouts:
+    shared:
+      nav:
+        hexlet_logo: Hexlet logo

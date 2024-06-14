@@ -1,0 +1,16 @@
+ru:
+  show: Показать
+  edit: Редактировать
+  destroy: Удалить
+  destroy_confirmation: Вы уверены?
+  back: Назад
+  home:
+    link: Домой
+    title: Домашняя страница
+  title: Интернационализация
+  hexlet_title: © Хекслет, %{year}
+
+  layouts:
+    shared:
+      nav:
+        hexlet_logo: Логотип Хекслет

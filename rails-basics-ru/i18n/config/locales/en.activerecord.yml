@@ -1,0 +1,33 @@
+en:
+  activerecord:
+    models:
+      post:
+        few: Posts
+        one: Post
+        many: Posts
+        zero: No posts
+        other: Posts
+      post/comment:
+        few: "%{count} comments"
+        one: "%{count} comment"
+        many: "%{count} comments"
+        other: Comments
+        zero: No comments
+
+    attributes:
+      post:
+        title: Title
+        body: Body
+      post/comment:
+        body: Body
+        comment: Comment
+        comments: Comments
+
+    errors:
+      models:
+        post:
+          attributes:
+            title:
+              blank: should be filled
+            bo7dy:
+              blank: should be filled

@@ -1,0 +1,33 @@
+---
+ru:
+  posts:
+    add:
+      title: Новый пост
+
+    create:
+      success: Пост создан.
+
+    destroy:
+      success: Пост удален.
+
+    edit:
+      title: Редактирование поста
+
+    index:
+      title: Посты
+
+    update:
+      success: Пост обновлен.
+
+    comments:
+      add:
+        title: Добавить комментарий
+
+      edit:
+        title: Изменить комментарий
+
+      create:
+        success: Комментарий создан.
+
+      update:
+        success: Комментарий обновлен.

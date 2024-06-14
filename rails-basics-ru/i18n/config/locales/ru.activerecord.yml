@@ -1,0 +1,33 @@
+ru:
+  activerecord:
+    models:
+      post:
+        few: поста
+        many: постов
+        one: Пост
+        other: Посты
+        zero: Нет постов
+      post/comment:
+        few: "%{count} комментария"
+        many: "%{count} комментариев"
+        one: "%{count} комментарий"
+        other: Комментарии
+        zero: нет комментариев
+
+    attributes:
+      post:
+        title: Название
+        body: Текст
+      post/comment:
+        body: Содержание
+        comment: Комментарий
+        comments: Комментарии
+
+    errors:
+      models:
+        post:
+          attributes:
+            title:
+              blank: Должно быть заполнено
+            bo7dy:
+              blank: Должно быть заполнено
