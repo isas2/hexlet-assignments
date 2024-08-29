@@ -70,7 +70,7 @@ class Web::UsersController < Web::ApplicationController
   ensure
     response.stream.close
   end
-  
+
   private
 
   def generate_csv(column_names, records)
