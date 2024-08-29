@@ -60,14 +60,17 @@ class Web::UsersController < Web::ApplicationController
 
   def stream_csv
     response.headers['Content-Type'] = 'text/event-stream'
-    response.headers['Last-Modified'] = Time.now.httpdate
-    send_stream(filename: 'report.csv') do |stream|
-      generate_csv(User.column_names, User.all)
+    response.headers["Last-Modified"] = Time.now.httpdate
+    send_stream(filename: "report.csv") do |stream|
+      stream.write User.column_names.to_csv
+      User.all.each do |user|
+        stream.write user.attributes.values_at(*User.column_names).to_csv
+      end
     end
   ensure
     response.stream.close
   end
-
+  
   private
 
   def generate_csv(column_names, records)
