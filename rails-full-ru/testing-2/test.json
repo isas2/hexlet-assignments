@@ -1,0 +1,131 @@
+{:id=>781800668,
+:node_id=>"R_kgDOLplU3A",
+:name=>"hexlet-assignments",
+:full_name=>"isas2/hexlet-assignments",
+:private=>false,
+:owner=>{
+  :login=>"isas2",
+  :id=>48231479,
+  :node_id=>"MDQ6VXNlcjQ4MjMxNDc5",
+  :avatar_url=>"https://avatars.githubusercontent.com/u/48231479?v=4",
+  :gravatar_id=>"",
+  :url=>"https://api.github.com/users/isas2",
+  :html_url=>"https://github.com/isas2",
+  :followers_url=>"https://api.github.com/users/isas2/followers",
+  :following_url=>"https://api.github.com/users/isas2/following{/other_user}",
+  :gists_url=>"https://api.github.com/users/isas2/gists{/gist_id}",
+  :starred_url=>"https://api.github.com/users/isas2/starred{/owner}{/repo}",
+  :subscriptions_url=>"https://api.github.com/users/isas2/subscriptions",
+  :organizations_url=>"https://api.github.com/users/isas2/orgs",
+  :repos_url=>"https://api.github.com/users/isas2/repos",
+  :events_url=>"https://api.github.com/users/isas2/events{/privacy}",
+  :received_events_url=>"https://api.github.com/users/isas2/received_events",
+  :type=>"User",
+  :site_admin=>false
+},
+:html_url=>"https://github.com/isas2/hexlet-assignments",
+:description=>"Hexlet assignments",
+:fork=>false,
+:url=>"https://api.github.com/repos/isas2/hexlet-assignments",
+:forks_url=>"https://api.github.com/repos/isas2/hexlet-assignments/forks",
+:keys_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/keys{/key_id}",
+:collaborators_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/collaborators{/collaborator}",
+:teams_url=>"https://api.github.com/repos/isas2/hexlet-assignments/teams",
+:hooks_url=>"https://api.github.com/repos/isas2/hexlet-assignments/hooks",
+:issue_events_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/issues/events{/number}",
+:events_url=>"https://api.github.com/repos/isas2/hexlet-assignments/events",
+:assignees_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/assignees{/user}",
+:branches_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/branches{/branch}",
+:tags_url=>"https://api.github.com/repos/isas2/hexlet-assignments/tags",
+:blobs_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/git/blobs{/sha}",
+:git_tags_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/git/tags{/sha}",
+:git_refs_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/git/refs{/sha}",
+:trees_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/git/trees{/sha}",
+:statuses_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/statuses/{sha}",
+:languages_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/languages",
+:stargazers_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/stargazers",
+:contributors_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/contributors",
+:subscribers_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/subscribers",
+:subscription_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/subscription",
+:commits_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/commits{/sha}",
+:git_commits_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/git/commits{/sha}",
+:comments_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/comments{/number}",
+:issue_comment_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/issues/comments{/number}",
+:contents_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/contents/{+path}",
+:compare_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/compare/{base}...{head}",
+:merges_url=>"https://api.github.com/repos/isas2/hexlet-assignments/merges",
+:archive_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/{archive_format}{/ref}",
+:downloads_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/downloads",
+:issues_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/issues{/number}",
+:pulls_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/pulls{/number}",
+:milestones_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/milestones{/number}",
+:notifications_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/notifications{?since,all,participating}",
+:labels_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/labels{/name}",
+:releases_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/releases{/id}",
+:deployments_url=>
+"https://api.github.com/repos/isas2/hexlet-assignments/deployments",
+:created_at=>2024-04-04 04:09:51 UTC,
+:updated_at=>2024-08-29 11:47:08 UTC,
+:pushed_at=>2024-08-29 11:47:05 UTC,
+:git_url=>"git://github.com/isas2/hexlet-assignments.git",
+:ssh_url=>"git@github.com:isas2/hexlet-assignments.git",
+:clone_url=>"https://github.com/isas2/hexlet-assignments.git",
+:svn_url=>"https://github.com/isas2/hexlet-assignments",
+:homepage=>nil,
+:size=>4456,
+:stargazers_count=>0,
+:watchers_count=>0,
+:language=>"JavaScript",
+:has_issues=>true,
+:has_projects=>true,
+:has_downloads=>true,
+:has_wiki=>true,
+:has_pages=>false,
+:has_discussions=>false,
+:forks_count=>0,
+:mirror_url=>nil,
+:archived=>false,
+:disabled=>false,
+:open_issues_count=>0,
+:license=>nil,
+:allow_forking=>true,
+:is_template=>false,
+:web_commit_signoff_required=>false,
+:topics=>[],
+:visibility=>"public",
+:forks=>0,
+:open_issues=>0,
+:watchers=>0,
+:default_branch=>"main",
+:temp_clone_token=>nil,
+:network_count=>0,
+:subscribers_count=>2}
